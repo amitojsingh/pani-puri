@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Raleway');
+h1,h3{
+    font-family:'Raleway', sans-serif;
+}
+h1{
+    font-size:3em;
+}
+p{
+    
+}
+.panipuri-image{
+   margin:30px;
+    box-shadow: 10px 10px #ecf0f1;
+    border-radius: 5%;
+    width:80%;
+}
+body{
+    font-family:'Cabin',sans-serif;
+  margin:0;
+  background:url("../images/panipuri.jpg") no-repeat center center fixed;
+  background-size:Cover;
+}
+.wrapper{
+  margin:auto;
+background-color:rgba(255,255,255,0.9);
+width:60%;
+padding: 20px;
+padding-right:0;
+}
+h1{
+  margin-top:0;
+}
+
+img{
+  width:70%;
+}
+.ingred li{
+  list-style-type:none;
+  display:inline-block;
+  margin:9px;
+}
+figure img{
+  width:3em;
+}
+.inner-wrapper{
+    margin:50px;
+}
