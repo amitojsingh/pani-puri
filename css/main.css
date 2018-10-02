@@ -6,7 +6,7 @@ h1{
     font-size:3em;
 }
 p{
-    
+
 }
 .panipuri-image{
    margin:30px;
@@ -44,4 +44,13 @@ figure img{
 }
 .inner-wrapper{
     margin:50px;
+}
+
+footer{
+  font-size:12px;
+}
+.stage1 img{
+  opacity:0.8;
+  width:300px;
+  border:2px solid #ecf0f1;
 }
